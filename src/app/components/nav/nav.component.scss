@@ -1,0 +1,9 @@
+@import '../../../css/_mixins.scss';
+@import '../../../css/variables';
+
+:host {
+    grid-area: nav;
+    max-width: 256px;
+    padding: 2rem 1rem;
+    border-right: dashed 2px map-get($colors, "primary");
+}

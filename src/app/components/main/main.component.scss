@@ -1,0 +1,8 @@
+@import '../../../css/variables';
+@import '../../../css/mixins';
+
+:host {
+    @include rounded; 
+    grid-area: main;
+    width: 512px;
+}

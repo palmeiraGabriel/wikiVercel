@@ -1,0 +1,9 @@
+@import '../../../css/variables';
+@import '../../../css/mixins';
+
+:host {
+    grid-area: footer;
+    height: $footer-height;
+    width: 100%;
+    border-top: solid 2px map-get($colors, "primary");
+}

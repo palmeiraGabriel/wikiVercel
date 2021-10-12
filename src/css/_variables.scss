@@ -1,0 +1,31 @@
+$header-height: 4rem;
+$footer-height: 4rem;
+
+$colors: (
+    "primary": #80a040,
+    "b0": #ffffff,
+    "b1": #f0f0f0,
+    "b2": #d0d0d0,
+    "b3": #b0b0b0,
+    "b4": #505050,
+    "b5": #303030,
+    "b6": #101010,
+    "b7": #000000,
+    "b8": #eb008a,
+    "b9": #f29333,
+    "bA": #f8ca12,
+    "bB": #37b349,
+    "bC": #00aabb,
+    "bD": #0e5a94,
+    "bE": #b31e8d,
+    "bF": #7a2d00);
+
+@keyframes border-pop {
+    0% {
+        border-color: transparent;
+    }
+    100% {
+        border-color: map-get($colors, "primary");
+    }
+    
+}

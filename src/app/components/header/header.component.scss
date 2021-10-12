@@ -1,0 +1,16 @@
+@import '../../../css/variables';
+@import '../../../css/mixins';
+
+:host {
+    display: grid;
+    grid-template:
+        "logo   menu"   #{$header-height} /
+        1fr     1fr;
+    grid-area: header;
+    font-size: 1.5rem;
+    height: $header-height;
+    border-bottom: solid 2px map-get($colors, "primary");
+    .logo {
+        place-self: center start;
+    }
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34mm"
+   height="34mm"
+   viewBox="0 0 34 34"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/midori/docs/code/blog/src/favicon.ico"
+   inkscape:export-xdpi="23.905882"
+   inkscape:export-ydpi="23.905882"
+   sodipodi:docname="midori.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="60.5"
+     inkscape:cy="137.5"
+     inkscape:window-width="1274"
+     inkscape:window-height="1047"
+     inkscape:window-x="4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="34mm" />
+  <defs
+     id="defs2">
+    <rect
+       x="145.32228"
+       y="59.186047"
+       width="534.28931"
+       height="721.41205"
+       id="rect4148" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-87.999999,-131.49999)"
+       id="text4146"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4148);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/midori/docs/code/blog/src/assets/midori.svg"
+       inkscape:export-xdpi="23.905882"
+       inkscape:export-ydpi="23.905882" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-8.3999176"
+       y="23.434654"
+       id="text5188"
+       inkscape:export-filename="/home/midori/docs/code/blog/src/assets/midori.svg"
+       inkscape:export-xdpi="23.905882"
+       inkscape:export-ydpi="23.905882"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.264583"
+         x="-8.3999176"
+         y="23.434654"
+         id="tspan12088"><tspan
+   style="fill:#80a040;fill-opacity:1"
+   id="tspan24918">「</tspan>緑<tspan
+   style="fill:#80a040;fill-opacity:1"
+   id="tspan26726">」</tspan></tspan></text>
+    <circle
+       style="fill:#fffffd;fill-opacity:0;stroke:#76ae55;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path53354"
+       cx="17"
+       cy="17"
+       r="0"
+       inkscape:export-filename="/home/midori/docs/code/blog/src/assets/midori.svg"
+       inkscape:export-xdpi="23.905882"
+       inkscape:export-ydpi="23.905882" />
+  </g>
+</svg>
